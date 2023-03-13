@@ -24,7 +24,6 @@ class WeatherModel {
   }
   @override
   String toString() {
-    // TODO: implement toString
     return 'temp= $temp minTemp = $minTemp date = $date';
   }
 
